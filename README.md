@@ -1,13 +1,4 @@
-# piano
-🎹 a virtual playable piano
+this is not mine
 
-![Piano](./virtual_piano.png)
-
----
-
-## features
-- adjust volume and toggle labels
-- ability to play multiple chords at once!
-- 2 hidden songs will play after playing a specific combination of keys!
-
-**disclaimer** - might be laggy online
+credits:
+https://github.com/shashwatb14/piano?tab=readme-ov-file
